@@ -1,5 +1,8 @@
 # Machine Learning Fundamentals
 
+### This document overviews how basic ML fundamentals apply in the context of deep-learning.
+### (Mostly review of information i'm familiar with).
+
 ### Evaluating Models
 
 ## Validation/Testing Methods:
